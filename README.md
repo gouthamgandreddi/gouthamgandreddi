@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gouthamgandreddi
 - 👀 I’m interested in Front-end & Full-stack development
-- 🌱 React developmer
+- 🌱 React developer
 - 💞️ I’m looking to collaborate on React,JS,Node,Angular
 - 📫 How to reach me goutham946@gmail.com
 
